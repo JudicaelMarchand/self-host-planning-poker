@@ -82,6 +82,20 @@ export const decks: Deck[] = [
       { value: 6, display: 'XL' },
       { value: 7, display: 'XXL' },
     ]
+  },
+  {
+    name: 'HOUR_VOTE',
+    textValues: false,
+    values: [
+      { value: 0, display: 0 },
+      { value: 1, display: 1 },
+      { value: 2, display: 2 },
+      { value: 3.5, display: 3.5 },
+      { value: 7, display: 7 },
+      { value: 14, display: 14 },
+      { value: 35, display: 35 },
+      { value: 70, display: 70 },
+    ]
   }
 ]
 

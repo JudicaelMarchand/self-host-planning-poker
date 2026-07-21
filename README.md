@@ -19,7 +19,7 @@ This application is intended as a simplified and self-hostable alternative to
 
 It features:
 
-  * Multiple deck types: Fibonacci, modified Fibonacci, T-Shirt sizes, powers of 2 and trust vote (0 to 5)
+  * Multiple deck types: Fibonacci, modified Fibonacci, T-Shirt sizes, powers of 2 and trust vote (0 to 5), Hour vote
   * Spectator mode
   * Responsive layout
   * Vote summary
